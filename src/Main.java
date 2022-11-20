@@ -9,6 +9,7 @@ public class Main {
         for (Printable printable : printables) {
             printable.print();
 
+
         }
 
     }
